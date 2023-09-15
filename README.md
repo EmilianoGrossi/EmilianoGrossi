@@ -18,7 +18,10 @@
 
 <h2> <img src="https://user-images.githubusercontent.com/74038190/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif" width="80" height="70">Mis estadísticas: </h2>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EmilianoGrossi&theme=github-dark&hide_border=verdadero&locale=es)](https://git.io/streak-stats)
+
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EmilianoGrossi&theme=highcontrast&hide_border=verdadero&border_radius=5&locale=es&hide_longest_streak=true)](https://git.io/streak-stats) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=EmilianoGrossi&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
 
 <div align= "left">
   <h2>Aprendiendo actualmente:</h2>
