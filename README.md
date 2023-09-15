@@ -28,7 +28,7 @@
     <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LinckedIn" width="40" height="40">
     <img src="https://raw.githubusercontent.com/raivo-otp/issuer-icons/master/vectors/google.com/google.svg?sanitize=true" alt="Gmail" width="40" height="40">
-    
+    <img src="https://raw.githubusercontent.com/raivo-otp/issuer-icons/master/vectors/whatsapp.com/whatsapp.svg?sanitize=true" alt="WhatsApp" width="40" height="40">
  </div>
 
 <div align= "left">
