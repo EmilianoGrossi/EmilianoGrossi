@@ -1,14 +1,24 @@
 
 <div align="center">
-   <h1>¡¡Bienvenido!! :handshake: , mi nombre es Emiliano </h1>   
-  
+    <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900" height="320"> 
 </div>
-<div align="rigth">
-  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="250" height="150"> 
-</div>
-
 
 ---
+
+
+<div align="center">
+ <img src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" width="110" height="70"> <h1>¡¡Bienvenido!! :handshake:,mi nombre es Emiliano   </h1> 
+</div>
+
+
+- <h4>:books: Soy estudiante de programación en la Universidad Tecnológica Nacional. :mortar_board:</h4>
+- <h4>:star: Apacionado de la programación y del desarrollo de páginas web. :computer:</h4>
+
+---
+
+<h2> <img src="https://user-images.githubusercontent.com/74038190/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif" width="80" height="70">Mis estadísticas: </h2>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EmilianoGrossi&theme=github-dark&hide_border=verdadero&locale=es)](https://git.io/streak-stats)
 
 <div align= "left">
   <h2>Aprendiendo actualmente:</h2>
@@ -19,7 +29,7 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title= "Pyhton" width="40" height="40">
       <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title= "Java" width="40" height="40">
       <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title= "Git" width="40" height="40">
-      <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_vscode.svg" title= "Github" width="40" height="40">
+      <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_vscode.svg" title= "Visual Studio Code" width="40" height="40">
       <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title= "Github" width="40" height="40">
   </div>
 
