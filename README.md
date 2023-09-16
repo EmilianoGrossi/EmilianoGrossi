@@ -25,11 +25,16 @@
 
 <div align= "left" >
      <h2>Redes de contacto:</h2>
-    <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LinckedIn" width="40" height="40">
-    <img src="https://raw.githubusercontent.com/raivo-otp/issuer-icons/master/vectors/google.com/google.svg?sanitize=true" alt="Gmail" width="40" height="40">
-    <img src="https://raw.githubusercontent.com/raivo-otp/issuer-icons/master/vectors/whatsapp.com/whatsapp.svg?sanitize=true" alt="WhatsApp" width="40" height="40">
- </div>
+    
+ <a href="https://www.linkedin.com/in/emiliano-grossi-189096291/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LinckedIn" width="40" height="40" >
+</a>
+ <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox">
+    <img src="https://raw.githubusercontent.com/raivo-otp/issuer-icons/master/vectors/google.com/google.svg?sanitize=true" alt="Gmail" width="40" height="40" >
+</a>
+ <a href="https://web.whatsapp.com/">
+    <img src="https://raw.githubusercontent.com/raivo-otp/issuer-icons/master/vectors/whatsapp.com/whatsapp.svg?sanitize=true" alt="WhatsApp" width="40" height="40" >
+</a>
 
 <div align= "left">
   <h2>Aprendiendo actualmente:</h2>
