@@ -22,7 +22,7 @@
   </a>
 </p>  
 
----
+
 <div align= "left">
   <h2>Aprendiendo actualmente:</h2>
     <div>
@@ -37,5 +37,4 @@
       
   </div>
   
-![bottom.png](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/readme-bottom.png)
- 
+ ![bottom.png](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
