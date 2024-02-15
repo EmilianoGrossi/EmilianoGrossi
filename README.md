@@ -29,11 +29,10 @@
     <img src=https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg title= "HTML" width="40" height="40">
       <img src=https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg title= "CSS" width="40" height="40">
       <img src=https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg title= "Javascript" width="40" height="40">
+     <img src=https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg title= "React" width="40" height="40">
       <img src=https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg title= "Pyhton" width="40" height="40">
       <img src=https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg title= "Java" width="40" height="40">
-        <img src=https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg title= "MyS" width="40" height="40">
-      <img src=https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg title= "Git" width="40" height="40">
-      <img src=https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg title= "Visual Studio Code" width="40" height="40">
+        <img src=https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg title= "MySQL" width="40" height="40">
       
   </div>
   
