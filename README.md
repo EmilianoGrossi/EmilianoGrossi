@@ -1,10 +1,5 @@
 
----
-
-<div align="center">
- <img src="https://github.com/EmilianoGrossi/miPrimerRepo/assets/135922136/06c85bec-08e6-44c4-a5cd-fba4699729fa" width="70%"> 
-</div>
-
+![](https://github.com/EmilianoGrossi/Nombre.git)
 
 - <h4>:books: Soy estudiante de programación en la Universidad Tecnológica Nacional. :mortar_board:</h4>
 - <h4>:star: Apacionado de la programación y del desarrollo web. :computer:</h4>
