@@ -7,7 +7,7 @@
 ---
 
 <div align= "left" >
-     <h2>Contactame</h2>
+     <h2>Contáctame</h2>
     <p>
   <a href="https://www.linkedin.com/in/emiliano-grossi-189096291/">
     <code><img src="https://github.com/hussainweb/hussainweb/blob/main/icons/linkedin.png" height="33px" style="margin: 5px;" /></code>
