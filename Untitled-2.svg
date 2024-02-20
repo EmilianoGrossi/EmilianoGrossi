@@ -2,12 +2,16 @@
   <text x="55" y="140" font-family="Segoe Script " font-size="120" fill="#59B4C3" stroke="#FE7A36" stroke-width="2">
     <animate attributeName="stroke-dasharray" values="0 300;450 300" dur="5s" keyTimes="0;1" repeatCount="indefinite" />
     <animate attributeName="stroke-dashoffset" values="-300 0;-600 300" dur="2s" keyTimes="0;1" repeatCount="indefinite" />
+    <animate attributeName="stroke-dasharray" values="0 1000;1000 0" dur="6s" keyTimes="0;1" repeatCount="indefinite" />
+    <animate attributeName="stroke-dashoffset" values="1000;0" dur="6s" keyTimes="0;1" repeatCount="indefinite" />
     Emiliano 
   </text>
 
   <text x="260" y="270" font-family="Segoe Script " font-size="120" fill="#59B4C3" stroke="#FE7A36" stroke-width="2">
     <animate attributeName="stroke-dasharray" values="0 300;450 300" dur="5s" keyTimes="0;1" repeatCount="indefinite" />
     <animate attributeName="stroke-dashoffset" values="-300 0;-600 300" dur="2s" keyTimes="0;1" repeatCount="indefinite" />
+    <animate attributeName="stroke-dasharray" values="0 1000;1000 0" dur="6s" keyTimes="0;1" repeatCount="indefinite" />
+    <animate attributeName="stroke-dashoffset" values="1000;0" dur="6s" keyTimes="0;1" repeatCount="indefinite" />
     Grossi
   </text>
 </svg>
