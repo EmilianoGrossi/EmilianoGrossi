@@ -9,6 +9,10 @@
 - <h4>:rocket: Abierto a formar y liderar grandes equipos de trabajo. :speech_balloon:</h4>
 
 
+ <h2> Puntos Adicionales </h2>
+ <p>Tengo una fuerte relación y fanatismo con el desarrollo Frontend acompañado de firmes conocimientos del desarrollo Backend. </p>
+ <p>Utilizo Scrum como metodología ágil para la planificación, ejecución y seguimiento de proyectos, asegurando entregas iterativas y colaboración efectiva en equipo.</p>
+
 <div align= "left" >
      <h2> Contáctame </h2>
     <p>
