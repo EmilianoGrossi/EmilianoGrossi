@@ -1,13 +1,16 @@
 
 ![Emiliano Grossi](Untitled-2.svg)
 
+<h2> Sobre mi </h2>
+
 - <h4>:books: Soy estudiante de programación en la Universidad Tecnológica Nacional. :mortar_board:</h4>
 - <h4>:star: Apacionado de la programación y del desarrollo web. :computer:</h4>
+- <h4>:mag: Constante a la busqueda de soluciónes en problemas y comprometido con una sólida adopción de nuevas tecnologías y herramientas. :bulb:</h4>
+- <h4>:rocket: Abierto a formar y liderar grandes equipos de trabajo. :speech_balloon:</h4>
 
----
 
 <div align= "left" >
-     <h2>Contáctame</h2>
+     <h2> Contáctame </h2>
     <p>
   <a href="https://www.linkedin.com/in/emiliano-grossi-189096291/">
     <code><img src="https://github.com/hussainweb/hussainweb/blob/main/icons/linkedin.png" height="33px" style="margin: 5px;" /></code>
@@ -19,7 +22,7 @@
 
 
 <div align= "left">
-  <h2>Tecnologías y herramientas</h2>
+  <h2> Tecnologías y herramientas </h2>
     <div>
     <img src=https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg title= "HTML" width="40" height="40">
       <img src=https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg title= "CSS" width="40" height="40">
