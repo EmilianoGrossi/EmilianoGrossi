@@ -33,7 +33,6 @@
       <img src=https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg title= "Javascript" width="40" height="40">
      <img src=https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg title= "Git" width="40" height="40">
      <img src=https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg title= "React" width="40" height="40">
-     <img src=https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Dark.svg title= "Angular" width="40" height="40">
       <img src=https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg title= "Pyhton" width="40" height="40">
       <img src=https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg title= "Java" width="40" height="40">
         <img src=https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg title= "MySQL" width="40" height="40">
